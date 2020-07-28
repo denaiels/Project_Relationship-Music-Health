@@ -25,7 +25,7 @@ The methods we use to process the data and get insight are:
 5. K-th Nearest Neigbour (KNN)
 6. Random Forest
 
-To see the full explanation on this research, please kindly open our report on the folder "Report" with the file name of "
+To see the full explanation on this research, please kindly open our report on the folder "Report" with the file name of "Laporan Project Machine Learning_AlbertDanielLuwisSteven"
 
 **How to Use:**
 1. Open any .ipynb files you want to open to check the code and results of the specific method.
@@ -39,4 +39,8 @@ Here are the results...
 
 Slovakian Dataset using Random Forest:
 
+![](/results/slovakia.png)
+
 Indonesian Dataset using Random Forest:
+
+![](/results/indonesia.png)
