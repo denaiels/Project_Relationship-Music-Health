@@ -39,8 +39,8 @@ Here are the results...
 
 Slovakian Dataset using Random Forest:
 
-![](/results/slovak.png)
+![](/results/dataslovak.png)
 
 Indonesian Dataset using Random Forest:
 
-![](/results/indo.png)
+![](/results/dataindo.png)
