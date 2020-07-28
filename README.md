@@ -25,6 +25,8 @@ The methods we use to process the data and get insight are:
 5. K-th Nearest Neigbour (KNN)
 6. Random Forest
 
+To see the full explanation on this research, please kindly open our report on the folder "Report" with the file name of "
+
 **How to Use:**
 1. Open any .ipynb files you want to open to check the code and results of the specific method.
 2. Run all the codes on the file.
